@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: steel
   m_EditorClassIdentifier: 
   name: steal
-  icon: {fileID: 0}
+  icon: {fileID: 21300000, guid: 25a3c20984bd16241ae7efe8395af43e, type: 3}
